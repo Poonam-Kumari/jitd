@@ -1,5 +1,5 @@
-policy cracker 1000000
--- policy inline
+-- policy cracker 1000000
+policy inline
 -- spawn_slow 100 workload/1.jitd
 -- 
 -- ---------- key_range batch_size ____record_cnt____ ms_per ms_tot
